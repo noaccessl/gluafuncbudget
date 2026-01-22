@@ -5,6 +5,8 @@ Brief documentation can be found in the code.
 
 The name is coined from an analogy with [Source Engine's Showbudget](https://developer.valvesoftware.com/wiki/Showbudget).
 
+Feel free to use it whenever you need to test a set of functions quickly and descriptively. At times there's irritating need for such convenience (at least speaking from my own personal experience).
+
 ## Mechanism in a nutshell
 ```
 Configure
@@ -78,10 +80,3 @@ gluafuncbudget.Queue( {
 
 ###### Output
 ![gluafuncbudget.png](gluafuncbudget.png)
-
-## P.S.
-Feel free to use it whenever you need to test a set of functions quickly and descriptively. At times there's irritating need for such convenience (speaking from my own personal experience).
-
-It is yet another tool made for more rapid debugging/development.
-
-As simple as that.
