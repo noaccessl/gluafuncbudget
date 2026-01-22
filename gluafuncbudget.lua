@@ -206,7 +206,9 @@ function gluafuncbudget.Configure( tGLuaFuncBudgetParams )
 end
 
 --[[ Doc
+
 	Structure: GLuaFuncBudgetParams
+
 		Description
 		—————————————————————————————————————
 			The configuration-structure for the utility.
@@ -248,6 +250,7 @@ end
 
 			boolean jit_off_all
 				Convenience purpose. For turning off JIT for every test at once. Optional.
+
 ]]
 
 
@@ -527,7 +530,9 @@ function gluafuncbudget.Queue( tBudgetedFunc )
 end
 
 --[[ Doc
+
 	Structure: BudgetedFunc
+
 		Description
 		—————————————————————————————————————
 			The datum-structure for a function to be budgeted.
@@ -562,4 +567,5 @@ end
 
 			function post
 				Post-main function. Optional.
+
 ]]
